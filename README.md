@@ -1,4 +1,4 @@
-# Projeto-Integrador---Fatec---IronLead
+# Projeto-Integrador-IronLead
 # Aprendizado por Projeto Integrador (API)
 
 Template para os projetos do curso de graduação em Logística, ensinando na utilização do repositório digital "GitHub". 
