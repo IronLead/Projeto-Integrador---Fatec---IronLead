@@ -11,7 +11,10 @@ A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e 
 * [Backlog do produto](#Backlog-do-produto)
 
 # Objetivo 
- Desenvolver um dashboard no Power BI para identificar os cinco municípios com maior Valor Agregado (V.A.) na exportação em 2023 e 2024, usando dados do Comex Stat. Isso permitirá uma análise clara dos líderes em exportação e facilitará a tomada de decisões estratégicas
+ Desenvolver um dashboard no Power BI para analisar os dados do Comex Stat e identificar os cinco municípios com maior Valor Agregado (V.A.) na exportação nos anos de 2023 e 2024, permitindo uma comparação entre os dois anos.
+
+# Resultado esperado
+O resultado será um painel interativo que destaque os municípios líderes em exportação, possibilitando a análise comparativa do desempenho entre 2023 e 2024. Isso ajudará a identificar tendências, variações no comércio exterior e apoiar a tomada de decisões estratégicas.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
