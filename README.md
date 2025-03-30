@@ -31,13 +31,32 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 |  Team Member  | Matheus Alves     |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
 |  Team Member  | Vitor Hugo     |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
 
-# Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+# Cronograma das Sprints
+## Cronograma
+
+Sprint | Previsão | Status| Histórico|
+|------|--------|------|--------|
+|Kick Off |10/03/2025| CONCLUÍDO| [Ver Relatório]() | 
+|00 | ATUALIZAR| c....| [Ver Relatório]() | 
+|01|  ATUALIZAR| .... |[Ver Relatório]() | 
+|02|ATUALIZAR | ....|[Ver Relatório]() | 
+|03| ATUALIZAR |.... |[Ver Relatório]()  | 
+|04| ATUALIZAR |.... |[Ver Relatório]()  | 
+
+## Sprint 0. Concepção
+- [x] Backlog do produto;
+- [x] GitHub estruturado com link disponibilizado;
+- [x] Jira Software estruturado; 
+- [x] Atribuição das atividades para a Sprint 1.
+
+## Sprint 1. Desenvolvimento do Projeto
+- [x] Fazer o relacionamento dos dados no Power BI;
+- [x] Pesquisa de apoio para contextualizar o projeto;
+- [x] Atualizar o Git Hub de acordo com o feedback do cliente;
+- [x] Fazer relatório técnico da sprint 1;
+- [x] Projetar dash teste (dados gerais);
+- [x] Gerenciar o 5W2H;
+- [x] Workshop de Power BI para nivelamento da equipe com a ferramenta.
 
 ## Tecnologias Utilizadas
 
