@@ -5,6 +5,7 @@ A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e 
 # Índice
 * [Projeto](#projeto-template)
 * [Objetivo](#Objetivo)
+* [Resultado esperado](#Resultado esperado)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Sprints](#Sprints)
