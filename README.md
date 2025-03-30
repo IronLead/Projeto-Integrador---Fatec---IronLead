@@ -7,11 +7,8 @@ A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e 
 * [Objetivo](#Objetivo)
 * [Resultado esperado](#Resultado-esperado)
 * [Equipe](#equipe)
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [Sprints](#Sprints)
-* [Burndown](#Burndown)
-* [Backlog do produto](#Backlog-do-produto)
-
+* [Cronograma das Sprints](#Cronograma-das-Sprints)
+* [Burndown](#Burndown) 
 # Projeto
 
 # Objetivo 
@@ -36,38 +33,18 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off |10/03/2025| CONCLUÍDO| [Ver Relatório]() | 
-|00 | ATUALIZAR| c....| [Ver Relatório]() | 
-|01|  ATUALIZAR| .... |[Ver Relatório]() | 
-|02|ATUALIZAR | ....|[Ver Relatório]() | 
-|03| ATUALIZAR |.... |[Ver Relatório]()  | 
-|04| ATUALIZAR |.... |[Ver Relatório]()  | 
+|Kick Off |10/03/2025| CONCLUÍDO| [MVP](https://) | 
+|00 | ATUALIZAR| ....| [MVP](https://)| 
+|01|  ATUALIZAR| .... |[MVP](https://) | 
+|02|ATUALIZAR | ....|[MVP](https://) | 
+|03| ATUALIZAR |.... |[MVP](https://)  | 
+|04| ATUALIZAR |.... |[MVP](https://) | 
 
 ## Sprint 0. Concepção
-- [x] Backlog do produto;
-- [x] GitHub estruturado com link disponibilizado;
-- [x] Jira Software estruturado; 
-- [x] Atribuição das atividades para a Sprint 1.
-
-## Sprint 1. Desenvolvimento do Projeto
-- [x] Fazer o relacionamento dos dados no Power BI;
-- [x] Pesquisa de apoio para contextualizar o projeto;
-- [x] Atualizar o Git Hub de acordo com o feedback do cliente;
-- [x] Fazer relatório técnico da sprint 1;
-- [x] Projetar dash teste (dados gerais);
-- [x] Gerenciar o 5W2H;
-- [x] Workshop de Power BI para nivelamento da equipe com a ferramenta.
-
-## Tecnologias Utilizadas
-
- ### Tecnologias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
-  
- ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
-
-# Backlog do produto
-
+- [ ] Backlog do produto;
+- [ ] GitHub estruturado com link disponibilizado;
+- [ ] Jira Software estruturado; 
+- [ ] Atribuição das atividades para a Sprint 1.
 ## Sprint 1
 - [ ] Defina o propósito do template;
 - [ ] Identifique os elementos principais;
@@ -108,12 +85,14 @@ Sprint | Previsão | Status| Histórico|
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
 
-# Registro das Sprints
 
-Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
-|01 | dd/mm/aaaa | a fazer| [MVP](https://) | 
-|02|  dd/mm/aaaa| a fazer|[MVP](https://) | 
-|03| dd/mm/aaaa | a fazer|[MVP](https://) | 
-|04| dd/mm/aaaa |a fazer |[MVP](https://)  | 
-|Feira de Soluções|dd/mm/aaaa |a fazer |[MVP](https://) | 
+
+## Tecnologias Utilizadas
+
+ ### Tecnologias Específicas/Apoio
+ > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+  
+ ### Tecnologias da Informação
+ > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+
+
