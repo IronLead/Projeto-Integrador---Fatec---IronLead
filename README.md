@@ -42,8 +42,10 @@ Sprint | Previsão | Status| Histórico|
 
 ## Sprint 0. Concepção
 - [ ] Backlog do produto;
+- [ ] Reuniões 
 - [ ] GitHub estruturado com link disponibilizado;
-- [ ] Jira Software estruturado; 
+- [ ] Jira Software estruturado;
+- [ ] Slack Estruturado;
 - [ ] Atribuição das atividades para a Sprint 1.
 ## Sprint 1
 - [ ] Defina o propósito do template;
@@ -53,8 +55,6 @@ Sprint | Previsão | Status| Histórico|
 - [ ] Desenvolva o design;
 - [ ] Teste e revise;
 - [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
 
 ## Sprint 2
 - [ ] Documento passo a passo;
