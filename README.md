@@ -34,8 +34,8 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off |10/03/2025| CONCLUÍDO| [MVP](https://) | 
-|00 | ATUALIZAR| ....| [MVP](https://)| 
-|01|  ATUALIZAR| .... |[MVP](https://) | 
+|00 | 23/03/2025| CONCLUÍDO| [MVP](https://)| 
+|01|  07/04/2025| ANDAMENTO |[MVP](https://) | 
 |02|ATUALIZAR | ....|[MVP](https://) | 
 |03| ATUALIZAR |.... |[MVP](https://)  | 
 |04| ATUALIZAR |.... |[MVP](https://) | 
