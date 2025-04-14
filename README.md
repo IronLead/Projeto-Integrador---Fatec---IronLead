@@ -3,10 +3,10 @@
   <img src="https://github.com/user-attachments/assets/266fca5b-2393-4fe7-b361-3c40af3b59c8" alt="Logo do Projeto" width="600"/>
 </p>
 
-# Aprendizado por Projeto Integrador (API)
+#  Aprendizado por Projeto Integrador (API)
 A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e interativa, semelhante às metodologias ágeis. Nesse método, os alunos desenvolvem conhecimentos e habilidades ao trabalhar em projetos práticos, organizados em ciclos de planejamento, execução e retrospectiva. A interdisciplinaridade é valorizada, permitindo que diferentes áreas do conhecimento sejam aplicadas de forma colaborativa para solucionar desafios do mundo real, promovendo a adaptação contínua e a entrega incremental de resultados.
 
-# *Project-Based Learning with Integrative Projects (API)*
+#   *Project-Based Learning with Integrative Projects (API)*
 
 *Project-based learning with integrative projects follows a dynamic and interactive approach, similar to agile methodologies. In this method, students develop knowledge and skills by working on practical projects, organized into cycles of planning, execution, and reflection. Interdisciplinarity is emphasized, allowing different areas of knowledge to be collaboratively applied to solve real-world challenges, promoting continuous adaptation and the incremental delivery of results.*
 
@@ -19,13 +19,13 @@ A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e 
 * [Burndown](#Burndown) 
 # Projeto
 
-# Objetivo 
+# :pushpin: Objetivo 
  Desenvolver um dashboard no Power BI para analisar os dados do Comex Stat e identificar os cinco municípios com maior Valor Agregado (V.A.) na exportação nos anos de 2023 e 2024, permitindo uma comparação entre os dois anos.
 
-# Resultado esperado
+# :pushpin: Resultado esperado
 O resultado será um painel interativo que destaque os municípios líderes em exportação, possibilitando a análise comparativa do desempenho entre 2023 e 2024. Isso ajudará a identificar tendências, variações no comércio exterior e apoiar a tomada de decisões estratégicas.
 
-# Equipe
+# :pushpin: Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Abner Morais         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abner-morais-44b711103/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Abnermorais99)              |
