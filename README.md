@@ -36,37 +36,27 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 |  Team Member  | Matheus Alves     |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
 |  Team Member  | Vitor Hugo     |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-hugo-nascimento-9b161531b) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
 
-# Cronograma das Sprints
-## Cronograma
+# :pushpin: Cronograma das Sprints
 
-Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
-|Kick Off |10/03/2025| CONCLUÍDO| [MVP](https://) | 
-|00 | 23/03/2025| CONCLUÍDO| [MVP](https://)| 
-|01|  07/04/2025| ANDAMENTO |[MVP](https://) | 
-|02|ATUALIZAR | ....|[MVP](https://) | 
-|03| ATUALIZAR |.... |[MVP](https://)  | 
-|04| ATUALIZAR |.... |[MVP](https://) | 
-
-
-Rank	Prioridade	User Story	Estimativa	Sprint	Requisito do Parceiro
-1|	Alta|	Como cliente, quero que o repositório GitHub esteja estruturado e funcional para garantir o versionamento correto do projeto	3h	Sprint 1	Controle de versão confiável e rastreável|
-2	Alta	Como tomador de decisão, quero ter um levantamento completo das ferramentas e da arquitetura do projeto para compreender os componentes técnicos envolvidos	4h	Sprint 1	Transparência na construção da solução
-3	Média	Como gestor de acompanhamento, desejo que as tarefas sejam organizadas e visíveis via Jira para facilitar o monitoramento do progresso	2h	Sprint 1	Organização e visibilidade no progresso
-4	Média	Como cliente, quero visualizar uma prévia dos dados em Excel para avaliar a estrutura e os campos relevantes antes da modelagem final	2h	Sprint 1	Validação prévia da qualidade dos dados
-5	Alta	Como analista de dados, desejo que os dados do Comex Stat sejam limpos e padronizados para garantir integridade na análise	5h	Sprint 2	Confiabilidade dos dados
-6	Alta	Como cliente, quero identificar os 5 municípios com maior valor agregado de exportações em 2023 para priorizar esforços de investimento ou suporte	4h	Sprint 2	Foco em resultados relevantes para tomada de decisão
-7	Alta	Como usuário final, desejo visualizar os dados por município no Power BI para facilitar análises regionais e insights geográficos	5h	Sprint 2	Facilidade de análise geográfica
-9	Alta	Como cliente, quero integrar os dados dos anos de 2023 e 2024 para realizar comparações de desempenho entre os períodos analisados	4h	Sprint 2	Análise de evolução entre os anos 
-10	Alta	Como analista, desejo enriquecer os dados com arquivos CSV contendo nomes completos dos municípios para assegurar clareza nas visualizações	3h	Sprint 2	Padronização e precisão nas informações apresentadas
-11	Alta	Como cliente, desejo poder aplicar filtros por município, produto no dashboard para personalizar a análise	5h	Sprint 3	Interatividade e personalização da análise
-12	Média	Como analista de mercado, desejo comparar visualmente municípios entre si para entender variações no desempenho de exportações	4h	Sprint 3	Comparação entre regiões
-13	Alta	Como especialista em comércio exterior, desejo filtrar os dados utilizando códigos SH4 para obter um detalhamento por categoria de produto	4h	Sprint 3	Detalhamento técnico dos produtos exportados
-14	Alta	Como gestor, desejo visualizar rankings por volume e valor agregado para identificar líderes de exportação	4h	Sprint 3	Insights rápidos e visuais sobre desempenho
-15	Alta	Como cliente, desejo um dashboard final responsivo e funcional para garantir boa experiência em qualquer dispositivo	6h	Sprint 4	Visualização amigável em diferentes dispositivos
-16	Alta	Como tomador de decisão, desejo que a plataforma esteja pronta para exportação e apresentação para facilitar o compartilhamento da solução	3h	Sprint 4	Compartilhamento com stakeholders externos
-17	Média	Como desenvolvedor ou equipe de suporte, desejo que o repositório final esteja organizado e documentado para futuras manutenções	4h	Sprint 4	Facilidade de manutenção e reuso
-18	Alta	Como cliente, desejo uma apresentação final clara da solução desenvolvida para validar o resultado e aprovar a entrega	2h	Sprint 4	Validação da entrega final
+| Rank |	Prioridade |	User Story |	Estimativa |	Sprint |	Requisito do Parceiro | 
+|------|-------------|-------------|-------------|---------|------------------------|
+1 |	Alta |	Como cliente, quero que o repositório GitHub esteja estruturado e funcional para garantir o versionamento correto do projeto |	3h |	Sprint 1 |	2
+2	| Alta |	Como tomador de decisão, quero ter um levantamento completo das ferramentas e da arquitetura do projeto para compreender os componentes técnicos envolvidos |	4h |	Sprint 1 |	3
+3	| Média |	Como gestor de acompanhamento, desejo que as tarefas sejam organizadas e visíveis via Jira para facilitar o monitoramento do progresso |	2h |	Sprint 1 |	3
+4	| Média |	Como cliente, quero visualizar uma prévia dos dados em Excel para avaliar a estrutura e os campos relevantes antes da modelagem final |	2h |	Sprint 1 |	2
+5 |	Alta |	Como analista de dados, desejo que os dados do Comex Stat sejam limpos e padronizados para garantir integridade na análise |	5h |	Sprint 2 |	5
+6	| Alta |	Como cliente, quero identificar os 5 municípios com maior valor agregado de exportações em 2023 para priorizar esforços de investimento ou suporte	| 4h |	Sprint 2 |	3
+7	| Alta |	Como usuário final, desejo visualizar os dados por município no Power BI para facilitar análises regionais e insights geográficos	| 5h | Sprint 2 |	4
+9	| Alta |	Como cliente, quero integrar os dados dos anos de 2023 e 2024 para realizar comparações de desempenho entre os períodos analisados |	4h |	Sprint 2 |	3
+10 |	Alta |	Como analista, desejo enriquecer os dados com arquivos CSV contendo nomes completos dos municípios para assegurar clareza nas visualizações |	3h |	Sprint 2 | 4
+11 |	Alta |	Como cliente, desejo poder aplicar filtros por município, produto no dashboard para personalizar a análise |	5h |	Sprint 3 |	4
+12 |	Média |	Como analista de mercado, desejo comparar visualmente municípios entre si para entender variações no desempenho de exportações |	4h |	Sprint 3 |	3
+13 |	Alta |	Como especialista em comércio exterior, desejo filtrar os dados utilizando códigos SH4 para obter um detalhamento por categoria de produto | 4h |	Sprint 3 |	5
+14 |	Alta |	Como gestor, desejo visualizar rankings por volume e valor agregado para identificar líderes de exportação |	4h |	Sprint 3 | 4
+15 |	Alta |	Como cliente, desejo um dashboard final responsivo e funcional para garantir boa experiência em qualquer dispositivo |	6h |	Sprint 4 |	5
+16 |	Alta |	Como tomador de decisão, desejo que a plataforma esteja pronta para exportação e apresentação para facilitar o compartilhamento da solução|	3h |	Sprint 4 |	2
+17 |	Média |	Como desenvolvedor ou equipe de suporte, desejo que o repositório final esteja organizado e documentado para futuras manutenções |	4h |	Sprint 4 | 	3
+18 |	Alta |	Como cliente, desejo uma apresentação final clara da solução desenvolvida para validar o resultado e aprovar a entrega |	2h |	Sprint 4 |	2
 
 
 
