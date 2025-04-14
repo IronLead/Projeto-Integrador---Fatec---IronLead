@@ -3,8 +3,12 @@
   <img src="https://github.com/user-attachments/assets/266fca5b-2393-4fe7-b361-3c40af3b59c8" alt="Logo do Projeto" width="600"/>
 </p>
 
-# <p align="center"> Aprendizado por Projeto Integrador (API)
+# Aprendizado por Projeto Integrador (API)
 A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e interativa, semelhante às metodologias ágeis. Nesse método, os alunos desenvolvem conhecimentos e habilidades ao trabalhar em projetos práticos, organizados em ciclos de planejamento, execução e retrospectiva. A interdisciplinaridade é valorizada, permitindo que diferentes áreas do conhecimento sejam aplicadas de forma colaborativa para solucionar desafios do mundo real, promovendo a adaptação contínua e a entrega incremental de resultados.
+
+# *Project-Based Learning with Integrative Projects (API)*
+
+*Project-based learning with integrative projects follows a dynamic and interactive approach, similar to agile methodologies. In this method, students develop knowledge and skills by working on practical projects, organized into cycles of planning, execution, and reflection. Interdisciplinarity is emphasized, allowing different areas of knowledge to be collaboratively applied to solve real-world challenges, promoting continuous adaptation and the incremental delivery of results.*
 
 # Índice
 * [Projeto](#projeto-template)
@@ -43,6 +47,34 @@ Sprint | Previsão | Status| Histórico|
 |02|ATUALIZAR | ....|[MVP](https://) | 
 |03| ATUALIZAR |.... |[MVP](https://)  | 
 |04| ATUALIZAR |.... |[MVP](https://) | 
+
+
+Rank	Prioridade	User Story	Estimativa	Sprint	Requisito do Parceiro
+1|	Alta|	Como cliente, quero que o repositório GitHub esteja estruturado e funcional para garantir o versionamento correto do projeto	3h	Sprint 1	Controle de versão confiável e rastreável|
+2	Alta	Como tomador de decisão, quero ter um levantamento completo das ferramentas e da arquitetura do projeto para compreender os componentes técnicos envolvidos	4h	Sprint 1	Transparência na construção da solução
+3	Média	Como gestor de acompanhamento, desejo que as tarefas sejam organizadas e visíveis via Jira para facilitar o monitoramento do progresso	2h	Sprint 1	Organização e visibilidade no progresso
+4	Média	Como cliente, quero visualizar uma prévia dos dados em Excel para avaliar a estrutura e os campos relevantes antes da modelagem final	2h	Sprint 1	Validação prévia da qualidade dos dados
+5	Alta	Como analista de dados, desejo que os dados do Comex Stat sejam limpos e padronizados para garantir integridade na análise	5h	Sprint 2	Confiabilidade dos dados
+6	Alta	Como cliente, quero identificar os 5 municípios com maior valor agregado de exportações em 2023 para priorizar esforços de investimento ou suporte	4h	Sprint 2	Foco em resultados relevantes para tomada de decisão
+7	Alta	Como usuário final, desejo visualizar os dados por município no Power BI para facilitar análises regionais e insights geográficos	5h	Sprint 2	Facilidade de análise geográfica
+9	Alta	Como cliente, quero integrar os dados dos anos de 2023 e 2024 para realizar comparações de desempenho entre os períodos analisados	4h	Sprint 2	Análise de evolução entre os anos 
+10	Alta	Como analista, desejo enriquecer os dados com arquivos CSV contendo nomes completos dos municípios para assegurar clareza nas visualizações	3h	Sprint 2	Padronização e precisão nas informações apresentadas
+11	Alta	Como cliente, desejo poder aplicar filtros por município, produto no dashboard para personalizar a análise	5h	Sprint 3	Interatividade e personalização da análise
+12	Média	Como analista de mercado, desejo comparar visualmente municípios entre si para entender variações no desempenho de exportações	4h	Sprint 3	Comparação entre regiões
+13	Alta	Como especialista em comércio exterior, desejo filtrar os dados utilizando códigos SH4 para obter um detalhamento por categoria de produto	4h	Sprint 3	Detalhamento técnico dos produtos exportados
+14	Alta	Como gestor, desejo visualizar rankings por volume e valor agregado para identificar líderes de exportação	4h	Sprint 3	Insights rápidos e visuais sobre desempenho
+15	Alta	Como cliente, desejo um dashboard final responsivo e funcional para garantir boa experiência em qualquer dispositivo	6h	Sprint 4	Visualização amigável em diferentes dispositivos
+16	Alta	Como tomador de decisão, desejo que a plataforma esteja pronta para exportação e apresentação para facilitar o compartilhamento da solução	3h	Sprint 4	Compartilhamento com stakeholders externos
+17	Média	Como desenvolvedor ou equipe de suporte, desejo que o repositório final esteja organizado e documentado para futuras manutenções	4h	Sprint 4	Facilidade de manutenção e reuso
+18	Alta	Como cliente, desejo uma apresentação final clara da solução desenvolvida para validar o resultado e aprovar a entrega	2h	Sprint 4	Validação da entrega final
+
+
+
+
+
+
+
+
 
 ## Sprint 0. Concepção
 - [ ] Backlog do produto;
