@@ -19,13 +19,14 @@ A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e 
 * [Burndown](#Burndown) 
 # Projeto
 
-# :pushpin: Objetivo 
+# Objetivo 
  Desenvolver um dashboard no Power BI para analisar os dados do Comex Stat e identificar os cinco municípios com maior Valor Agregado (V.A.) na exportação nos anos de 2023 e 2024, permitindo uma comparação entre os dois anos.
 
-# :pushpin: Resultado esperado
+# Resultado esperado
 O resultado será um painel interativo que destaque os municípios líderes em exportação, possibilitando a análise comparativa do desempenho entre 2023 e 2024. Isso ajudará a identificar tendências, variações no comércio exterior e apoiar a tomada de decisões estratégicas.
 
-# :pushpin: Equipe
+# Equipe
+
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Abner Morais         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abner-morais-44b711103/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Abnermorais99)              |
@@ -36,7 +37,7 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 |  Team Member  | Matheus Alves     |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
 |  Team Member  | Vitor Hugo     |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-hugo-nascimento-9b161531b) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
 
-# :pushpin: Cronograma das Sprints
+# Cronograma das Sprints
 
 | Rank |	Prioridade |	User Story |	Estimativa |	Sprint |	Requisito do Parceiro | 
 |------|-------------|-------------|-------------|---------|------------------------|
