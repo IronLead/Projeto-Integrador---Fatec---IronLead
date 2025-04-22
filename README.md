@@ -39,79 +39,37 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 
 # Cronograma das Sprints
 
-| Rank |	Prioridade |	User Story |	Estimativa |	Sprint |	Requisito do Parceiro | 
-|------|-------------|-------------|-------------|---------|------------------------|
-1 |	Alta |	Como cliente, quero que o repositório GitHub esteja estruturado e funcional para garantir o versionamento correto do projeto |	3h |	Sprint 1 |	2
-2	| Alta |	Como tomador de decisão, quero ter um levantamento completo das ferramentas e da arquitetura do projeto para compreender os componentes técnicos envolvidos |	4h |	Sprint 1 |	3
-3	| Média |	Como gestor de acompanhamento, desejo que as tarefas sejam organizadas e visíveis via Jira para facilitar o monitoramento do progresso |	2h |	Sprint 1 |	3
-4	| Média |	Como cliente, quero visualizar uma prévia dos dados em Excel para avaliar a estrutura e os campos relevantes antes da modelagem final |	2h |	Sprint 1 |	2
-5 |	Alta |	Como analista de dados, desejo que os dados do Comex Stat sejam limpos e padronizados para garantir integridade na análise |	5h |	Sprint 2 |	5
-6	| Alta |	Como cliente, quero identificar os 5 municípios com maior valor agregado de exportações em 2023 para priorizar esforços de investimento ou suporte	| 4h |	Sprint 2 |	3
-7	| Alta |	Como usuário final, desejo visualizar os dados por município no Power BI para facilitar análises regionais e insights geográficos	| 5h | Sprint 2 |	4
-9	| Alta |	Como cliente, quero integrar os dados dos anos de 2023 e 2024 para realizar comparações de desempenho entre os períodos analisados |	4h |	Sprint 2 |	3
-10 |	Alta |	Como analista, desejo enriquecer os dados com arquivos CSV contendo nomes completos dos municípios para assegurar clareza nas visualizações |	3h |	Sprint 2 | 4
-11 |	Alta |	Como cliente, desejo poder aplicar filtros por município, produto no dashboard para personalizar a análise |	5h |	Sprint 3 |	4
-12 |	Média |	Como analista de mercado, desejo comparar visualmente municípios entre si para entender variações no desempenho de exportações |	4h |	Sprint 3 |	3
-13 |	Alta |	Como especialista em comércio exterior, desejo filtrar os dados utilizando códigos SH4 para obter um detalhamento por categoria de produto | 4h |	Sprint 3 |	5
-14 |	Alta |	Como gestor, desejo visualizar rankings por volume e valor agregado para identificar líderes de exportação |	4h |	Sprint 3 | 4
-15 |	Alta |	Como cliente, desejo um dashboard final responsivo e funcional para garantir boa experiência em qualquer dispositivo |	6h |	Sprint 4 |	5
-16 |	Alta |	Como tomador de decisão, desejo que a plataforma esteja pronta para exportação e apresentação para facilitar o compartilhamento da solução|	3h |	Sprint 4 |	2
-17 |	Média |	Como desenvolvedor ou equipe de suporte, desejo que o repositório final esteja organizado e documentado para futuras manutenções |	4h |	Sprint 4 | 	3
-18 |	Alta |	Como cliente, desejo uma apresentação final clara da solução desenvolvida para validar o resultado e aprovar a entrega |	2h |	Sprint 4 |	2
-
-
-
-
-
-
-
-
-
 ## Sprint 0. Concepção
-- [ ] Backlog do produto;
-- [ ] Reuniões 
-- [ ] GitHub estruturado com link disponibilizado;
-- [ ] Jira Software estruturado;
-- [ ] Slack Estruturado;
-- [ ] Atribuição das atividades para a Sprint 1.
+- [X] Backlog do produto;
+- [X] Reuniões 
+- [X] GitHub estruturado com link disponibilizado;
+- [X] Jira Software estruturado;
+- [X] Slack Estruturado;
+- [X] Atribuição das atividades para a Sprint 1.
 ## Sprint 1
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
+- [X] Como cliente, quero que o repositório GitHub esteja estruturado e funcional para garantir o versionamento correto do projeto
+- [X] Como tomador de decisão, quero ter um levantamento completo das ferramentas e da arquitetura do projeto para compreender os componentes técnicos envolvidos
+- [X] Como gestor de acompanhamento, desejo que as tarefas sejam organizadas e visíveis via Jira para facilitar o monitoramento do progresso
+- [X] Como cliente, quero visualizar uma prévia dos dados em Excel para avaliar a estrutura e os campos relevantes antes da modelagem final
 
 ## Sprint 2
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+- [ ] Como analista de dados, desejo que os dados do Comex Stat sejam limpos e padronizados para garantir integridade na análise 
+- [ ] Como cliente, quero identificar os 5 municípios com maior valor agregado de exportações em 2023 para priorizar esforços de investimento ou suporte
+- [ ] Como usuário final, desejo visualizar os dados por município no Power BI para facilitar análises regionais e insights geográficos
+- [ ] Como cliente, quero integrar os dados dos anos de 2023 e 2024 para realizar comparações de desempenho entre os períodos analisados
+- [ ] Como analista, desejo enriquecer os dados com arquivos CSV contendo nomes completos dos municípios para assegurar clareza nas visualizações
       
 ## Sprint 3
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Como cliente, desejo poder aplicar filtros por município, produto no dashboard para personalizar a análise
+- [ ] Como analista de mercado, desejo comparar visualmente municípios entre si para entender variações no desempenho de exportações
+- [ ] Como especialista em comércio exterior, desejo filtrar os dados utilizando códigos SH4 para obter um detalhamento por categoria de produto
+- [ ] Como gestor, desejo visualizar rankings por volume e valor agregado para identificar líderes de exportação
       
 ## Sprint 4
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-
+- [ ] Como cliente, desejo um dashboard final responsivo e funcional para garantir boa experiência em qualquer dispositivo
+- [ ] Como tomador de decisão, desejo que a plataforma esteja pronta para exportação e apresentação para facilitar o compartilhamento da solução
+- [ ] Como desenvolvedor ou equipe de suporte, desejo que o repositório final esteja organizado e documentado para futuras manutenções
+- [ ] Como cliente, desejo uma apresentação final clara da solução desenvolvida para validar o resultado e aprovar a entrega
 
 
 ## Tecnologias Utilizadas
