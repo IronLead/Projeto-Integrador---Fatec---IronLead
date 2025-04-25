@@ -16,7 +16,10 @@ A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e 
 * [Resultado esperado](#Resultado-esperado)
 * [Equipe](#equipe)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
-* [Burndown](#Burndown) 
+* [Burndown](#Burndown)
+* [Tecnologias utilizadas](#Tecnologias-utilizadas)
+* [Serviços utilizados](#Serviços-utilizados)
+  
 # Projeto
 
 # Objetivo 
@@ -72,12 +75,21 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 - [ ] Como cliente, desejo uma apresentação final clara da solução desenvolvida para validar o resultado e aprovar a entrega
 
 
-## Tecnologias Utilizadas
+# Tecnologias Utilizadas
+* Jira Software
+* Powerbi
+* Phyton 
+
+# Serviços utilizados
+* COMEX STAT 
+
 
  ### Tecnologias Específicas/Apoio
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
   
  ### Tecnologias da Informação
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+
+## Agradecimentos 
 
 
