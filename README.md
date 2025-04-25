@@ -42,6 +42,8 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 
 # Cronograma das Sprints
 
+[*User story*]()
+
 ## Sprint 0. Concepção
 - [X] Backlog do produto;
 - [X] Reuniões 
@@ -76,9 +78,9 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 
 
 # Tecnologias Utilizadas
-* Jira Software
-* Powerbi
-* Phyton 
+* *Jira Software*
+* *Powerbi*
+* *Phyton* 
 
 # Serviços utilizados
 * COMEX STAT 
