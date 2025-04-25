@@ -83,7 +83,7 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 * *Phyton* 
 
 # Serviços utilizados
-* COMEX STAT 
+* [COMEX STAT](https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta)
 
 
  ### Tecnologias Específicas/Apoio
