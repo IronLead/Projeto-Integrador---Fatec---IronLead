@@ -82,7 +82,7 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 
 
 * <img src="https://github.com/user-attachments/assets/f8501508-ccc6-4e91-a346-697986a138a8" width="50"/> *Jira Software*
-* <img src="https://github.com/user-attachments/assets/bf25df7a-bd70-482f-8cc6-8a28e014151b" width="50"/> *Powerbi*
+* <img src="https://github.com/user-attachments/assets/bf25df7a-bd70-482f-8cc6-8a28e014151b" width="50"/> *PowerBI*
 * <img src="https://github.com/user-attachments/assets/d3cc67f6-258f-47bf-a1b8-4cd6cf8841fd" width="50"/>  *Phyton*
 * <img src="https://github.com/user-attachments/assets/d36e40b6-a450-49c3-a263-5bef20d380d3" width="50"/>  *Slack*
 * <img src="https://github.com/user-attachments/assets/894e292b-368d-4a89-ab7e-9aef6d239c98" width="50"/>  *VSCode*
@@ -101,5 +101,10 @@ O resultado será um painel interativo que destaque os municípios líderes em e
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
 
 ## Agradecimentos 
+
+-------------------------------------------------------------------
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b50cfb6f-79b2-490e-b4bb-d29228ccdbbe" alt="Imagem exemplo">
+</p>
 
 
