@@ -50,29 +50,29 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 - [X] Slack Estruturado;
 - [X] Atribuição das atividades para a Sprint 1.
 ## Sprint 1
-- [X] Como cliente, quero que o repositório GitHub esteja estruturado e funcional para garantir o versionamento correto do projeto
-- [X] Como tomador de decisão, quero ter um levantamento completo das ferramentas e da arquitetura do projeto para compreender os componentes técnicos envolvidos
-- [X] Como gestor de acompanhamento, desejo que as tarefas sejam organizadas e visíveis via Jira para facilitar o monitoramento do progresso
-- [X] Como cliente, quero visualizar uma prévia dos dados em Excel para avaliar a estrutura e os campos relevantes antes da modelagem final
+- [X] Repositório GitHub estruturado e funcional para garantir o versionamento correto do projeto
+- [X] Levantamento completo das ferramentas e da arquitetura do projeto para compreender os componentes técnicos envolvidos
+- [X] Tarefas organizadas e visíveis via Jira para facilitar o monitoramento do progresso
+- [X] Prévia dos dados em Excel para avaliar a estrutura e os campos relevantes antes da modelagem final
 
 ## Sprint 2
-- [ ] Como analista de dados, desejo que os dados do Comex Stat sejam limpos e padronizados para garantir integridade na análise 
-- [ ] Como cliente, quero identificar os 5 municípios com maior valor agregado de exportações em 2023 para priorizar esforços de investimento ou suporte
-- [ ] Como usuário final, desejo visualizar os dados por município no Power BI para facilitar análises regionais e insights geográficos
-- [ ] Como cliente, quero integrar os dados dos anos de 2023 e 2024 para realizar comparações de desempenho entre os períodos analisados
-- [ ] Como analista, desejo enriquecer os dados com arquivos CSV contendo nomes completos dos municípios para assegurar clareza nas visualizações
+- [X] Dados do Comex Stat sejam limpos e padronizados para garantir integridade na análise 
+- [X] Identificação dos 5 municípios com maior valor agregado de exportações em 2023 para priorizar esforços de investimento ou suporte
+- [X] Visualização dos dados por município no Power BI para facilitar análises regionais e insights geográficos
+- [X] Integração dos dados dos anos de 2023 e 2024 para realizar comparações de desempenho entre os períodos analisados
+- [X] Enriquecimento dos dados com arquivos CSV contendo nomes completos dos municípios para assegurar clareza nas visualizações
       
 ## Sprint 3
-- [ ] Como cliente, desejo poder aplicar filtros por município, produto no dashboard para personalizar a análise
-- [ ] Como analista de mercado, desejo comparar visualmente municípios entre si para entender variações no desempenho de exportações
-- [ ] Como especialista em comércio exterior, desejo filtrar os dados utilizando códigos SH4 para obter um detalhamento por categoria de produto
-- [ ] Como gestor, desejo visualizar rankings por volume e valor agregado para identificar líderes de exportação
+- [ ] Aplicação dos filtros por município, produto no dashboard para personalizar a análise
+- [ ] Comparação visualmente municípios entre si para entender variações no desempenho de exportações
+- [ ] Filtração dos dados utilizando códigos SH4 para obter um detalhamento por categoria de produto
+- [ ] Visualização dos rankings por volume e valor agregado para identificar líderes de exportação
       
 ## Sprint 4
-- [ ] Como cliente, desejo um dashboard final responsivo e funcional para garantir boa experiência em qualquer dispositivo
-- [ ] Como tomador de decisão, desejo que a plataforma esteja pronta para exportação e apresentação para facilitar o compartilhamento da solução
-- [ ] Como desenvolvedor ou equipe de suporte, desejo que o repositório final esteja organizado e documentado para futuras manutenções
-- [ ] Como cliente, desejo uma apresentação final clara da solução desenvolvida para validar o resultado e aprovar a entrega
+- [ ] Dashboard final responsivo e funcional para garantir boa experiência em qualquer dispositivo
+- [ ] Plataforma pronta para exportação e apresentação para facilitar o compartilhamento da solução
+- [ ] Repositório final organizado e documentado para futuras manutenções
+- [ ] Apresentação final clara da solução desenvolvida para validar o resultado e aprovar a entrega
 
 
 # Tecnologias Utilizadas
