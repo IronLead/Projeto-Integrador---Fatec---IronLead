@@ -78,9 +78,10 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 
 
 # Tecnologias Utilizadas
-* *Jira Software*
-* *Powerbi*
-* *Phyton* 
+
+* <img src="https://github.com/user-attachments/assets/f8501508-ccc6-4e91-a346-697986a138a8" width="50"/> *Jira Software*
+* <img src="https://github.com/user-attachments/assets/bf25df7a-bd70-482f-8cc6-8a28e014151b" width="50"/> *Powerbi*
+* <img src="https://github.com/user-attachments/assets/d3cc67f6-258f-47bf-a1b8-4cd6cf8841fd" width="50"/>  *Phyton* 
 
 # Serviços utilizados
 * [COMEX STAT](https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta)
