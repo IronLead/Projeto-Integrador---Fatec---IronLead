@@ -77,7 +77,7 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 - :black_square_button: Repositório final organizado e documentado para futuras manutenções
 - :black_square_button: Apresentação final clara da solução desenvolvida para validar o resultado e aprovar a entrega
 
-# Burndown 
+# *Burndown*
 
 # Tecnologias Utilizadas
 
