@@ -46,36 +46,36 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 [*User story*]()
 
 ## Sprint 0. Concepção
-- [X] Backlog do produto;
-- [X] Reuniões 
-- [X] GitHub estruturado com link disponibilizado;
-- [X] Jira Software estruturado;
-- [X] Slack Estruturado;
-- [X] Atribuição das atividades para a Sprint 1.
+- :white_check_mark: Backlog do produto;
+- :white_check_mark: Reuniões 
+- :white_check_mark: GitHub estruturado com link disponibilizado;
+- :white_check_mark: Jira Software estruturado;
+- :white_check_mark: Slack Estruturado;
+- :white_check_mark: Atribuição das atividades para a Sprint 1.
 ## Sprint 1
-- [X] Repositório GitHub estruturado e funcional para garantir o versionamento correto do projeto
-- [X] Levantamento completo das ferramentas e da arquitetura do projeto para compreender os componentes técnicos envolvidos
-- [X] Tarefas organizadas e visíveis via Jira para facilitar o monitoramento do progresso
-- [X] Prévia dos dados em Excel para avaliar a estrutura e os campos relevantes antes da modelagem final
+- :white_check_mark: Repositório GitHub estruturado e funcional para garantir o versionamento correto do projeto
+- :white_check_mark: Levantamento completo das ferramentas e da arquitetura do projeto para compreender os componentes técnicos envolvidos
+- :white_check_mark: Tarefas organizadas e visíveis via Jira para facilitar o monitoramento do progresso
+- :white_check_mark: Prévia dos dados em Excel para avaliar a estrutura e os campos relevantes antes da modelagem final
 
 ## Sprint 2
-- [X] Dados do Comex Stat sejam limpos e padronizados para garantir integridade na análise 
-- [X] Identificação dos 5 municípios com maior valor agregado de exportações em 2023 para priorizar esforços de investimento ou suporte
-- [X] Visualização dos dados por município no Power BI para facilitar análises regionais e insights geográficos
-- [X] Integração dos dados dos anos de 2023 e 2024 para realizar comparações de desempenho entre os períodos analisados
-- [X] Enriquecimento dos dados com arquivos CSV contendo nomes completos dos municípios para assegurar clareza nas visualizações
+- :white_check_mark: Dados do Comex Stat sejam limpos e padronizados para garantir integridade na análise 
+- :white_check_mark: Identificação dos 5 municípios com maior valor agregado de exportações em 2023 para priorizar esforços de investimento ou suporte
+- :white_check_mark: Visualização dos dados por município no Power BI para facilitar análises regionais e insights geográficos
+- :white_check_mark: Integração dos dados dos anos de 2023 e 2024 para realizar comparações de desempenho entre os períodos analisados
+- :white_check_mark: Enriquecimento dos dados com arquivos CSV contendo nomes completos dos municípios para assegurar clareza nas visualizações
       
 ## Sprint 3
-- [ ] Aplicação dos filtros por município, produto no dashboard para personalizar a análise
-- [ ] Comparação visualmente municípios entre si para entender variações no desempenho de exportações
-- [ ] Filtração dos dados utilizando códigos SH4 para obter um detalhamento por categoria de produto
-- [ ] Visualização dos rankings por volume e valor agregado para identificar líderes de exportação
+- :black_square_button: Aplicação dos filtros por município, produto no dashboard para personalizar a análise
+- :black_square_button: Comparação visualmente municípios entre si para entender variações no desempenho de exportações
+- :black_square_button: Filtração dos dados utilizando códigos SH4 para obter um detalhamento por categoria de produto
+- :black_square_button: Visualização dos rankings por volume e valor agregado para identificar líderes de exportação
       
 ## Sprint 4
-- [ ] Dashboard final responsivo e funcional para garantir boa experiência em qualquer dispositivo
-- [ ] Plataforma pronta para exportação e apresentação para facilitar o compartilhamento da solução
-- [ ] Repositório final organizado e documentado para futuras manutenções
-- [ ] Apresentação final clara da solução desenvolvida para validar o resultado e aprovar a entrega
+- :black_square_button: Dashboard final responsivo e funcional para garantir boa experiência em qualquer dispositivo
+- :black_square_button: Plataforma pronta para exportação e apresentação para facilitar o compartilhamento da solução
+- :black_square_button: Repositório final organizado e documentado para futuras manutenções
+- :black_square_button: Apresentação final clara da solução desenvolvida para validar o resultado e aprovar a entrega
 
 
 # Tecnologias Utilizadas
@@ -97,12 +97,6 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 # Serviços utilizados
 * [COMEX STAT](https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta)
 
-
- ### Tecnologias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
-  
- ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
 
 ## Agradecimentos 
 
