@@ -11,7 +11,7 @@ A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e 
 *Project-based learning with integrative projects follows a dynamic and interactive approach, similar to agile methodologies. In this method, students develop knowledge and skills by working on practical projects, organized into cycles of planning, execution, and reflection. Interdisciplinarity is emphasized, allowing different areas of knowledge to be collaboratively applied to solve real-world challenges, promoting continuous adaptation and the incremental delivery of results.*
 
 
-# Índice
+# :dart: Índice
 * [Projeto](#projeto-template)
 * [Objetivo](#Objetivo)
 * [Resultado esperado](#Resultado-esperado)
@@ -80,6 +80,8 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 
 # *Burndown*
 
+:warning:em desenvolvimento:warning:
+
 # Tecnologias Utilizadas
 
 * <img src="https://github.com/user-attachments/assets/23a35455-2da8-4c8c-8ace-f5f778969a6e" width="40"/>  *Excel*
@@ -100,6 +102,8 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 
 
 # Agradecimentos 
+
+:warning:em desenvolvimento:warning:
 
 -------------------------------------------------------------------
 <p align="center">
