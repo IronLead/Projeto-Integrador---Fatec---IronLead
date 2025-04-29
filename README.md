@@ -3,10 +3,10 @@
   <img src="https://github.com/user-attachments/assets/266fca5b-2393-4fe7-b361-3c40af3b59c8" alt="Logo do Projeto" width="600"/>
 </p>
 
-#  Aprendizado por Projeto Integrador (API)  <img src="https://github.com/user-attachments/assets/52dd23fb-5767-47a9-b3c0-b8bd95119aa5" width="35"/> :portugal:-:brazil:
+#  Aprendizado por Projeto Integrador (API)  <img src="https://github.com/user-attachments/assets/52dd23fb-5767-47a9-b3c0-b8bd95119aa5" width="35"/> 🇵🇹- :brazil:
 A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e interativa, semelhante às metodologias ágeis. Nesse método, os alunos desenvolvem conhecimentos e habilidades ao trabalhar em projetos práticos, organizados em ciclos de planejamento, execução e retrospectiva. A interdisciplinaridade é valorizada, permitindo que diferentes áreas do conhecimento sejam aplicadas de forma colaborativa para solucionar desafios do mundo real, promovendo a adaptação contínua e a entrega incremental de resultados.
 
-#   *Project-Based Learning with Integrative Projects (API)*  <img src="https://github.com/user-attachments/assets/7cdd11ff-80ae-481b-b021-62c78b05387e" width="35"/> 🇺🇸
+#   *Project-Based Learning with Integrative Projects (API)*  <img src="https://github.com/user-attachments/assets/7cdd11ff-80ae-481b-b021-62c78b05387e" width="35"/> 󠁧󠁢󠁥🇺🇸
 
 *Project-based learning with integrative projects follows a dynamic and interactive approach, similar to agile methodologies. In this method, students develop knowledge and skills by working on practical projects, organized into cycles of planning, execution, and reflection. Interdisciplinarity is emphasized, allowing different areas of knowledge to be collaboratively applied to solve real-world challenges, promoting continuous adaptation and the incremental delivery of results.*
 
