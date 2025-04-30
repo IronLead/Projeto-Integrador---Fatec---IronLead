@@ -32,7 +32,7 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 
 # Equipe
 
-||    Nome     | *Função* |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
+||    Nome     |      *Função* |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 |:---: | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 <img src="https://github.com/user-attachments/assets/0abd64e1-f91a-4d8e-aefc-4dbf4da0aa51" width="80"/> | Abner Morais |  Product Owner         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abner-morais-44b711103/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Abnermorais99)              |
 <img src="https://github.com/user-attachments/assets/a939bac4-d8c1-4385-b9fc-79d05353b38f" width="80"/> | Alan Jean  | Scrum Master |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alan-jean-195312219//) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/alanjean)     |
@@ -105,7 +105,13 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 
 # Agradecimentos 
 
-:warning:em desenvolvimento:warning:
+A realização deste API não seria possível sem o apoio e a colaboração de diversas pessoas que, direta ou indiretamente, contribuíram para seu desenvolvimento.
+Agradeço primeiramente a Deus, por me conceder saúde, sabedoria e perseverança ao longo desta jornada acadêmica.
+Expresso minha profunda gratidão ao professor Jose Jaétis Rosário, pela orientação precisa, incentivo constante e pela partilha de conhecimentos fundamentais para a construção deste trabalho.
+Aos demais docentes do curso de Logística, pelos ensinamentos que ampliaram minha visão crítica e prática sobre os desafios e soluções no setor logístico.
+Aos meus colegas de curso, pelo apoio mútuo, pelas discussões produtivas e pelo companheirismo durante toda a trajetória acadêmica.
+E, especialmente, à minha família, por todo suporte emocional, incentivo diário e compreensão nos momentos mais exigentes deste processo.
+A todos, o meu sincero e eterno agradecimento.
 
 -------------------------------------------------------------------
 <p align="center">
