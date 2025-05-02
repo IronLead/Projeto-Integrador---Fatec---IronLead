@@ -23,7 +23,7 @@ A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e 
 * [Serviços utilizados](#Serviços-utilizados)
 * [Agradecimentos](#Agradecimentos) 
 
-# Projeto
+# <h1 align="center"> Projeto
 
 # Objetivo 
  Desenvolver um dashboard no Power BI para analisar os dados do Comex Stat e identificar os cinco municípios com maior Valor Agregado (V.A.) na exportação nos anos de 2023 e 2024, permitindo uma comparação entre os dois anos.
