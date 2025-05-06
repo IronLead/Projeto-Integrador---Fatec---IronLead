@@ -70,7 +70,7 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 - :white_check_mark: Enriquecimento dos dados com arquivos CSV contendo nomes completos dos municípios para assegurar clareza nas visualizações
       
 ## Sprint 3
-- :black_square_button: Aplicação dos filtros por município, produto no dashboard para personalizar a análise
+- :white_check_mark: Aplicação dos filtros por município, produto no dashboard para personalizar a análise
 - :black_square_button: Comparação visualmente municípios entre si para entender variações no desempenho de exportações
 - :black_square_button: Filtração dos dados utilizando códigos SH4 para obter um detalhamento por categoria de produto
 - :black_square_button: Visualização dos rankings por volume e valor agregado para identificar líderes de exportação
