@@ -12,7 +12,7 @@ A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e 
 
 
 # :dart: Índice
-* [Projeto](#projeto-template)
+* [Projeto](#Projeto)
 * [Objetivo](#Objetivo)
 * [Resultado esperado](#Resultado-esperado)
 * [Equipe](#equipe)
