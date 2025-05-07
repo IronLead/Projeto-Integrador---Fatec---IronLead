@@ -101,12 +101,12 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 * <img src="https://github.com/user-attachments/assets/dedec4fc-d1ff-45f9-a88d-875e36b72629" width="40"/>  *Teams*
 
 # Serviços utilizados
-* <img src="https://github.com/user-attachments/assets/35783abe-ba9f-425a-8986-cbb905885874" width="100"/>  [COMEX STAT](https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta)
+* <img src="https://github.com/user-attachments/assets/cffb7a7f-3af1-4372-8848-0372db6a112e" width="110"/>  [COMEX STAT](https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta)
+
+
 
 
 # Agradecimentos 
-
-:warning:em desenvolvimento:warning:
 
 A realização deste API não seria possível sem o apoio e a colaboração de diversas pessoas que, direta ou indiretamente, contribuíram para seu desenvolvimento.
 Agradecemos primeiramente a Deus, por nos conceder saúde, sabedoria e perseverança ao longo desta jornada acadêmica.
