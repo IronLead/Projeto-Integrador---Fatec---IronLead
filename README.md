@@ -48,35 +48,35 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 
 # Cronograma das Sprints
  
-[*User story*](https://github.com/user-attachments/assets/352e7bf7-ba4a-486a-b6a7-0f47cbe9fe57) 📌
+📂 [*User story*](https://github.com/user-attachments/assets/352e7bf7-ba4a-486a-b6a7-0f47cbe9fe57) 
 
-## Sprint 0. Concepção
+## 📌 Sprint 0. Concepção
 - :white_check_mark: Backlog do produto;
 - :white_check_mark: Reuniões 
 - :white_check_mark: GitHub estruturado com link disponibilizado;
 - :white_check_mark: Jira Software estruturado;
 - :white_check_mark: Slack Estruturado;
 - :white_check_mark: Atribuição das atividades para a Sprint 1.
-## Sprint 1
+## 📌 Sprint 1
 - :white_check_mark: Repositório GitHub estruturado e funcional para garantir o versionamento correto do projeto
 - :white_check_mark: Levantamento completo das ferramentas e da arquitetura do projeto para compreender os componentes técnicos envolvidos
 - :white_check_mark: Tarefas organizadas e visíveis via Jira para facilitar o monitoramento do progresso
 - :white_check_mark: Prévia dos dados em Excel para avaliar a estrutura e os campos relevantes antes da modelagem final
 
-## Sprint 2
+## 📌 Sprint 2
 - :white_check_mark: Dados do Comex Stat sejam limpos e padronizados para garantir integridade na análise 
 - :white_check_mark: Identificação dos 5 municípios com maior valor agregado de exportações em 2023 para priorizar esforços de investimento ou suporte
 - :white_check_mark: Visualização dos dados por município no Power BI para facilitar análises regionais e insights geográficos
 - :white_check_mark: Integração dos dados dos anos de 2023 e 2024 para realizar comparações de desempenho entre os períodos analisados
 - :white_check_mark: Enriquecimento dos dados com arquivos CSV contendo nomes completos dos municípios para assegurar clareza nas visualizações
       
-## Sprint 3
+## 📌 Sprint 3
 - :white_check_mark: Aplicação dos filtros por município, produto no dashboard para personalizar a análise
 - :black_square_button: Comparação visualmente municípios entre si para entender variações no desempenho de exportações
 - :black_square_button: Filtração dos dados utilizando códigos SH4 para obter um detalhamento por categoria de produto
 - :black_square_button: Visualização dos rankings por volume e valor agregado para identificar líderes de exportação
       
-## Sprint 4
+## 📌 Sprint 4
 - :black_square_button: Dashboard final responsivo e funcional para garantir boa experiência em qualquer dispositivo
 - :black_square_button: Plataforma pronta para exportação e apresentação para facilitar o compartilhamento da solução
 - :black_square_button: Repositório final organizado e documentado para futuras manutenções
@@ -90,7 +90,7 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 
 :warning:em desenvolvimento:warning:
 
-[*Dashboard* em executavel]() 📌
+📂[*Dashboard* em executavel]() 
 
 
 # Tecnologias Utilizadas
