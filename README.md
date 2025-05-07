@@ -101,9 +101,8 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 * <img src="https://github.com/user-attachments/assets/dedec4fc-d1ff-45f9-a88d-875e36b72629" width="40"/>  *Teams*
 
 # Serviços utilizados
-* <img src="https://github.com/user-attachments/assets/cffb7a7f-3af1-4372-8848-0372db6a112e" width="110"/>  [COMEX STAT](https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta)
 
-
+  [<img src="https://github.com/user-attachments/assets/2d87e8ec-85a0-4283-a1a6-1111b3345bd3" width="150"/> ](https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta)
 
 
 # Agradecimentos 
