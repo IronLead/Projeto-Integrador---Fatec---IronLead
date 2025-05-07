@@ -18,7 +18,7 @@ A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e 
 * [Equipe](#equipe)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Burndown](#Burndown)
-* [Dashboard](Dashboard)
+* [Dashboard](#Dashboard) 
 * [Tecnologias utilizadas](#Tecnologias-utilizadas)
 * [Ferramentas de comunicação](#Ferramentas-de-comunicação)
 * [Serviços utilizados](#Serviços-utilizados)
