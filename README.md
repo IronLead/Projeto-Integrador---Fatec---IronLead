@@ -18,7 +18,7 @@ A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e 
 * [Equipe](#equipe)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Burndown](#Burndown)
-* [Dashboard do projeto](Dashboard-do-projeto)
+* [Dashboard](Dashboard)
 * [Tecnologias utilizadas](#Tecnologias-utilizadas)
 * [Ferramentas de comunicação](#Ferramentas-de-comunicação)
 * [Serviços utilizados](#Serviços-utilizados)
@@ -86,7 +86,7 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 
 :warning:em desenvolvimento:warning:
 
-# Dashboard do projeto
+# Dashboard
 
 :warning:em desenvolvimento:warning:
 
