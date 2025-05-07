@@ -47,8 +47,8 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 
 
 # Cronograma das Sprints
-
-[*User story*](https://github.com/user-attachments/assets/352e7bf7-ba4a-486a-b6a7-0f47cbe9fe57)
+ 
+[*User story*](https://github.com/user-attachments/assets/352e7bf7-ba4a-486a-b6a7-0f47cbe9fe57) 📌
 
 ## Sprint 0. Concepção
 - :white_check_mark: Backlog do produto;
@@ -84,13 +84,13 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 
 # *Burndown*
 
-:warning:em desenvolvimento:warning:
+:warning:em desenvolvimento:warning: 
 
 # *Dashboard*
 
 :warning:em desenvolvimento:warning:
 
-[*Dashboard* em executavel]()
+[*Dashboard* em executavel]() 📌
 
 
 # Tecnologias Utilizadas
