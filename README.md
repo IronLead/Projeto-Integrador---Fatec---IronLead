@@ -92,6 +92,11 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 
 📂[*Dashboard* em executavel]() 
 
+# Documentação 
+
+:warning:em desenvolvimento:warning:
+
+📂[Pesquisa]()
 
 # Tecnologias Utilizadas
 
