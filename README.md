@@ -89,13 +89,12 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 
 :warning:em desenvolvimento:warning:
 
-📂[*Dashboard* em executavel]() 
+📂[*Dashboard* executavel]() 
 
 # Documentação 
 
-:warning:em desenvolvimento:warning:
 
-📂[Pesquisa]()
+📂[Pesquisa](https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:075abcdb-46b9-4f54-86e4-e46df99eed2d)
 
 # Tecnologias Utilizadas
 
