@@ -20,10 +20,10 @@ A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e 
 * [Burndown](#Burndown)
 * [Dashboard](#Dashboard)
 * [Documentação](#Documentação)
+* [Apresentação em *slide*](#apresentação-em-slide)
 * [Tecnologias utilizadas](#Tecnologias-utilizadas)
 * [Ferramentas de comunicação](#Ferramentas-de-comunicação)
 * [Serviços utilizados](#Serviços-utilizados)
-* [Apresentação em *slide*](#apresentação-em-slide)
 * [Agradecimentos](#Agradecimentos) 
 
 # <h1 align="center"> Projeto
@@ -94,6 +94,10 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 
 <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="40"/>[Pesquisa](https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:075abcdb-46b9-4f54-86e4-e46df99eed2d)
 
+# Apresentação em *slide*
+
+<img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="40"/> [*slide* da apresentação](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:8d7a838d-d92c-42ce-88fb-60ecde01ee89)
+
 # Tecnologias Utilizadas
 
 * <img src="https://github.com/user-attachments/assets/23a35455-2da8-4c8c-8ace-f5f778969a6e" width="40"/>  *Excel*
@@ -112,10 +116,6 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 # Serviços utilizados
 
 <img src="https://github.com/user-attachments/assets/cb0a70ef-3813-4f61-97c1-b15eff2f2ded" width="60"/> [Estatísticas de Comércio Exterior em Dados Abertos](https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta)
-
-# Apresentação em *slide*
-
-<img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="40"/> [*slide* da apresentação](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:8d7a838d-d92c-42ce-88fb-60ecde01ee89)
 
 # Agradecimentos 
 
