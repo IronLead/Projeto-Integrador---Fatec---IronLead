@@ -129,8 +129,6 @@ Aos demais docentes do curso de Logística, pelos ensinamentos que ampliaram nos
 Aos nossos colegas de curso, pelo apoio mútuo, pelas discussões produtivas e pelo companheirismo durante toda a trajetória acadêmica.
 E, especialmente, à nossa família, por todo suporte emocional, incentivo diário e compreensão nos momentos mais exigentes deste processo.
 A todos, o nosso sincero e eterno agradecimento.
-
-[Voltar ao topo](Aprendizado-por-Projeto-Integrador-(API))
 -------------------------------------------------------------------
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b50cfb6f-79b2-490e-b4bb-d29228ccdbbe" alt="Imagem exemplo">
