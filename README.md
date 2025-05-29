@@ -128,6 +128,8 @@ Expressamos nossa profunda gratidão ao professor Jose Jaétis Rosário, pela or
 Aos demais docentes do curso de Logística, pelos ensinamentos que ampliaram nossa visão crítica e prática sobre os desafios e soluções no setor logístico.
 Aos nossos colegas de curso, pelo apoio mútuo, pelas discussões produtivas e pelo companheirismo durante toda a trajetória acadêmica.
 E, especialmente, à nossa família, por todo suporte emocional, incentivo diário e compreensão nos momentos mais exigentes deste processo.
+
+[Voltar ao topo](Aprendizado-por-Projeto-Integrador-(API)-🇧🇷)
 A todos, o nosso sincero e eterno agradecimento.
 
 -------------------------------------------------------------------
