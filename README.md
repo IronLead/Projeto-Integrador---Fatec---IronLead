@@ -23,6 +23,7 @@ A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e 
 * [Tecnologias utilizadas](#Tecnologias-utilizadas)
 * [Ferramentas de comunicação](#Ferramentas-de-comunicação)
 * [Serviços utilizados](#Serviços-utilizados)
+* [Apresentação em *slide*](#apresentação-em-slide))
 * [Agradecimentos](#Agradecimentos) 
 
 # <h1 align="center"> Projeto
@@ -114,6 +115,11 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 # Serviços utilizados
 
   [<img src="https://github.com/user-attachments/assets/2d87e8ec-85a0-4283-a1a6-1111b3345bd3" width="150"/> ](https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta)
+
+
+# Apresentação em *slide*
+
+📂[*slide* em PDF](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:8d7a838d-d92c-42ce-88fb-60ecde01ee89)
 
 
 # Agradecimentos 
