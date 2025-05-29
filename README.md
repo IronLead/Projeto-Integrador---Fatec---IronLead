@@ -114,8 +114,7 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 
 # Serviços utilizados
 
-  [<img src="https://github.com/user-attachments/assets/2d87e8ec-85a0-4283-a1a6-1111b3345bd3" width="150"/> ](https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta)
-
+<img src="https://github.com/user-attachments/assets/cb0a70ef-3813-4f61-97c1-b15eff2f2ded" width="60"/> [Estatísticas de Comércio Exterior em Dados Abertos](https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta)
 
 # Apresentação em *slide*
 
