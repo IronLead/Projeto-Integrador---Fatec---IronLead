@@ -23,7 +23,7 @@ A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e 
 * [Tecnologias utilizadas](#Tecnologias-utilizadas)
 * [Ferramentas de comunicação](#Ferramentas-de-comunicação)
 * [Serviços utilizados](#Serviços-utilizados)
-* [Apresentação em *slide*](#apresentação-em-slide))
+* [Apresentação em *slide*](#apresentação-em-slide)
 * [Agradecimentos](#Agradecimentos) 
 
 # <h1 align="center"> Projeto
