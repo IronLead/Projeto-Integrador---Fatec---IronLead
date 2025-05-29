@@ -44,8 +44,6 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 <img src="https://github.com/user-attachments/assets/de75aee7-b741-4586-bcbc-b900455a55ee" width="80"/> |  Matheus Alves  |  Team Member    |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-siqueira-a11186201/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/matheussiqueira14)          |
 <img src="https://github.com/user-attachments/assets/8488e918-7e70-4888-a086-8099a9078f61" width="80"/> |  Vitor Hugo   |   Team Member   |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-hugo-nascimento-9b161531b) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/vitor411)          |
 
-
-
 # Cronograma das Sprints
  
 📂 [*User story*](https://github.com/user-attachments/assets/352e7bf7-ba4a-486a-b6a7-0f47cbe9fe57) 
@@ -94,7 +92,6 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 
 # Documentação 
 
-
 <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="40"/>[Pesquisa](https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:075abcdb-46b9-4f54-86e4-e46df99eed2d)
 
 # Tecnologias Utilizadas
@@ -129,6 +126,7 @@ Aos demais docentes do curso de Logística, pelos ensinamentos que ampliaram nos
 Aos nossos colegas de curso, pelo apoio mútuo, pelas discussões produtivas e pelo companheirismo durante toda a trajetória acadêmica.
 E, especialmente, à nossa família, por todo suporte emocional, incentivo diário e compreensão nos momentos mais exigentes deste processo.
 A todos, o nosso sincero e eterno agradecimento.
+
 -------------------------------------------------------------------
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b50cfb6f-79b2-490e-b4bb-d29228ccdbbe" alt="Imagem exemplo">
