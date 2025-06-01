@@ -83,10 +83,12 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 # *Burndown*
 
 :warning:em desenvolvimento:warning: 
+(precisão de entrega - sprint 4)
 
 # *Dashboard*
 
 :warning:em desenvolvimento:warning:
+(previsão de entrega - sprint 4)
 
 📂[*Dashboard* executavel]() 
 
