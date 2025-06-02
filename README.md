@@ -87,10 +87,12 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 
 # *Dashboard*
 
-:warning:em desenvolvimento:warning:
-(previsão de entrega - sprint 4)
+📂[*Dashboard* executavel](https://app.powerbi.com/view?r=eyJrIjoiMjcxZWM1NjEtMmQzMC00Y2VkLTgxZDEtNGMwOWQ1YzI1NWM2IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
 
-📂[*Dashboard* executavel]() 
+(
+
+![image](https://github.com/user-attachments/assets/13559dfd-1624-42c0-964a-2ef6a62c8310)
+
 
 # Documentação 
 
