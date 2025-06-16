@@ -75,10 +75,10 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 - :white_check_mark: Visualização dos rankings por volume e valor agregado para identificar líderes de exportação
       
 ## 📌 Sprint 4
-- :black_square_button: Dashboard final responsivo e funcional para garantir boa experiência em qualquer dispositivo
-- :black_square_button: Plataforma pronta para exportação e apresentação para facilitar o compartilhamento da solução
-- :black_square_button: Repositório final organizado e documentado para futuras manutenções
-- :black_square_button: Apresentação final clara da solução desenvolvida para validar o resultado e aprovar a entrega
+- :white_check_mark: Dashboard final responsivo e funcional para garantir boa experiência em qualquer dispositivo
+- :white_check_mark: Plataforma pronta para exportação e apresentação para facilitar o compartilhamento da solução
+- :white_check_mark: Repositório final organizado e documentado para futuras manutenções
+- :white_check_mark: Apresentação final clara da solução desenvolvida para validar o resultado e aprovar a entrega
 
 # *Burndown*
 
