@@ -21,7 +21,8 @@ A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e 
 * [Documentação](#Documentação)
 * [Apresentação em *slide*](#apresentação-em-slide)
 * [Tecnologias utilizadas](#Tecnologias-utilizadas)
-* [Ferramentas de comunicação](#Ferramentas-de-comunicação)
+* [Canais de comunicação](#Canais-de-comunicação)
+* [Linguagem _Python_](#Linguagem-_Python_)
 * [Serviços utilizados](#Serviços-utilizados)
 * [Agradecimentos](#Agradecimentos) 
 
@@ -105,11 +106,16 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 * <img src="https://github.com/user-attachments/assets/d3cc67f6-258f-47bf-a1b8-4cd6cf8841fd" width="40"/>  *Phyton*
 * <img src="https://github.com/user-attachments/assets/894e292b-368d-4a89-ab7e-9aef6d239c98" width="40"/>  *VSCode*
 
-# Ferramentas de comunicação 
+# Canais de comunicação 
 
 * <img src="https://github.com/user-attachments/assets/d36e40b6-a450-49c3-a263-5bef20d380d3" width="40"/>  *Slack*
   
 * <img src="https://github.com/user-attachments/assets/dedec4fc-d1ff-45f9-a88d-875e36b72629" width="40"/>  *Teams*
+
+# Linguagem _Python_
+
+![image](https://github.com/user-attachments/assets/20a8fdca-8f95-42e8-98bd-163fa4385a34)
+
 
 # Serviços utilizados
 
