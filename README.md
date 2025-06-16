@@ -22,7 +22,7 @@ A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e 
 * [Apresentação em *slide*](#apresentação-em-slide)
 * [Tecnologias utilizadas](#Tecnologias-utilizadas)
 * [Canais de comunicação](#Canais-de-comunicação)
-* [Linguagem _Python_](#Linguagem-_Python_)
+* [Linguagem _Python_](#Linguagem-Python)
 * [Serviços utilizados](#Serviços-utilizados)
 * [Agradecimentos](#Agradecimentos) 
 
