@@ -17,7 +17,6 @@ A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e 
 * [Resultado esperado](#Resultado-esperado)
 * [Equipe](#equipe)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
-* [Burndown](#Burndown)
 * [Dashboard](#Dashboard)
 * [Documentação](#Documentação)
 * [Apresentação em *slide*](#apresentação-em-slide)
@@ -79,11 +78,6 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 - :white_check_mark: Plataforma pronta para exportação e apresentação para facilitar o compartilhamento da solução
 - :white_check_mark: Repositório final organizado e documentado para futuras manutenções
 - :white_check_mark: Apresentação final clara da solução desenvolvida para validar o resultado e aprovar a entrega
-
-# *Burndown*
-
-:warning:em desenvolvimento:warning: 
-(precisão de entrega - sprint 4)
 
 # *Dashboard*
 
