@@ -78,7 +78,15 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 - :white_check_mark: Dashboard final responsivo e funcional para garantir boa experiência em qualquer dispositivo
 - :white_check_mark: Plataforma pronta para exportação e apresentação para facilitar o compartilhamento da solução
 - :white_check_mark: Repositório final organizado e documentado para futuras manutenções
-- :white_check_mark: Apresentação final clara da solução desenvolvida para validar o resultado e aprovar a entrega
+- :white_check_mark: Apresentação final clara da solução desenvolvida para validar o resultado e aprovar a entrega   
+   
+
+   
+# Desenvolvimento
+
+
+# *Base de Dados*  
+[Python/Pandas](https://github.com/IronLead/Projeto-Integrador---Fatec---IronLead/blob/main/Connect.md)
 
 # *Dashboard*
 
@@ -110,14 +118,7 @@ O resultado será um painel interativo que destaque os municípios líderes em e
 
 * <img src="https://github.com/user-attachments/assets/d36e40b6-a450-49c3-a263-5bef20d380d3" width="40"/>  *Slack*
   
-* <img src="https://github.com/user-attachments/assets/dedec4fc-d1ff-45f9-a88d-875e36b72629" width="40"/>  *Teams*
-
-# Linguagem _Python_
-
-[Link](https://drive.google.com/file/d/1GA1jVdJWn0HBgG97q7xsN5h_g-ygQBlM/view?usp=sharing)
-
-![image](https://github.com/user-attachments/assets/20a8fdca-8f95-42e8-98bd-163fa4385a34)
-
+* <img src="https://github.com/user-attachments/assets/dedec4fc-d1ff-45f9-a88d-875e36b72629" width="40"/>  *Teams*   
 
 # Serviços utilizados
 
